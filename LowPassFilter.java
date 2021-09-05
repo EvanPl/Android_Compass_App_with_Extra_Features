@@ -1,7 +1,7 @@
 package com.example.vaggelis.assignment_1;
 
 /**
- * Created by Vaggelis on 20/02/2018.
+ * Created by Evan on 20/02/2018.
  */
 //Note that the low-pass filter is being used in order to isolate the force of gravity.
 //Also, note that when the phone is sitting on the table the accelerometer reads a magnitude of
