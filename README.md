@@ -5,5 +5,7 @@
 - Smart Spirit Level
 - Longitude, Latitude and Speed of user/phone on a Google Map
 - Capturing and Tagging a photo with phone sensor data and date
+
+
 ![alt text](https://github.com/EvanPl/Compass_Android_App_with_Extra_Functionalities/blob/main/Images/App.png)
 
