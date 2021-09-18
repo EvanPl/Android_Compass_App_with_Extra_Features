@@ -7,5 +7,3 @@
 - Capturing and Tagging a photo with phone sensor data and date
 
 <img src="https://github.com/EvanPl/Compass_Android_App_with_Extra_Functionalities/blob/main/Images/hi.png" width=50% height=50%>
-![alt text](https://github.com/EvanPl/Compass_Android_App_with_Extra_Functionalities/blob/main/Images/hi.png)
-
